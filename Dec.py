@@ -56,8 +56,7 @@ wa = ([i, q, b, m, xnxx, u, h,])
 w = pilih(wa)
 ttl = pilih(["#Jangan DiEdit Ngab Nanti Rusak :)","#Script DiEnclah Goblog Nanti LuRecoder :)","#Anak Kontol Biasanya Anak Reocder","#Kang Recoder Mau Lewat"])
 expired = ['20', '07', '2021']
-buffer_size = 9999999
-logo_exp=('Maaf Gan Script Ini Expired\nHubungi Admin Untuk DiPerbaiki :)\n'+i+'6283143565470')
+buffer_size = 9999999=
 logo_me = (c+"""________   ____________________  """+i+""">>"""+k+"""Version 2.1.1"""+c+"""
 \______ \  \_   _____/\_   ___ \ 
  |    |  \  |    __)_ /    \  \/ 
